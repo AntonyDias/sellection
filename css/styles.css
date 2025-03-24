@@ -61,11 +61,11 @@ section {
                     left: 50px;
                     border: 50%;
                     filter: blur(70px);
-                }
+                }   
             }
             
             & .conteudo {
-                position: absolute;
+                position: absolute; 
                 right: 100px;
                 width: 70%;
                 height: 100%;
